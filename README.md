@@ -1,4 +1,4 @@
 markdown-captions
 =================
 
-Extension for markdown to parse images with captions inside a figure element.
+Extension for [Python-Markdown][] to parse images with captions inside a figure element.
